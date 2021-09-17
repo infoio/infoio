@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">
+Hi There 👋 <br> 
+Infoio Community!
+</h1>
 
-<!--
-**infoio/infoio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+The Innovation Center
+</h3>
 
-Here are some ideas to get you started:
+ <p align="center">
+  <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/01/2-2-768x685.png" alt="oracle certified" width="300" height="270"/>
+  <!-- <img src="https://habib.al-mawali.com/wp-content/uploads/KTBase-Technologies.png" alt="ktbase" width="133" height="80"/> -->
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  
+  <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
+ </p>
+ 
+
+<p align="center">
+  <a href="https://github.com/infoio">
+    <img src="https://github-readme-stats.vercel.app/api?username=infoio&count_private=true&hide_border=true&show_icons=true &theme=flag-india " alt="infoio's github stats">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/infoio">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoio&langs_count=8 &layout=compact&hide_border=true&show_icons=true&count_private=true" alt="infoio's github stats">
+  </a>
+</p>
+
