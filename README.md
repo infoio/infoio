@@ -6,12 +6,6 @@ Infoio Community!
 <h3 align="center">
 The Innovation Center
 </h3>
-
- <p align="center">
-  <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/01/2-2-768x685.png" alt="oracle certified" width="300" height="270"/>
-  <!-- <img src="https://habib.al-mawali.com/wp-content/uploads/KTBase-Technologies.png" alt="ktbase" width="133" height="80"/> -->
- </p>
-
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/>
   <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
